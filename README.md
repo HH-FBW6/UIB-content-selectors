@@ -4,4 +4,6 @@
 
 **Instructions**:
 
-1. Modify the given page to make it look like the mockup.
+Modify the given page to make it look like the mockup.
+
+![mockup.png](mockup.png)
